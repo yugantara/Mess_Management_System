@@ -1,5 +1,4 @@
-# Mess_Management_System
-Mess Management System using C++ 
+# Mess Management System using C++ 
 It is a C++ project in which we can perform following operations:
 - View members list
 - Add member details
